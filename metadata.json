@@ -1,0 +1,6 @@
+{
+  "name": "StudioOS",
+  "description": "Sistema integrado de gestão operacional, financeira, CRM de leads, projetos, propostas, contratos, recorrências e assistente de IA para Web Designers e Agências Digitais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
